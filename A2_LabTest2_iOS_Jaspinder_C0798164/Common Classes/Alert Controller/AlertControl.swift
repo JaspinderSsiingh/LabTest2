@@ -1,7 +1,6 @@
 //
 //  AlertControl.swift
-//  note_Group03_iOS
-//
+//  A2_LabTest2_iOS_Jaspinder_C0798164
 //  Created by Jaspinder Singh on 17/05/21.
 //
 
